@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ATM 
+private class ATM 
 {
 	public static void main(String[] args) 
 	{

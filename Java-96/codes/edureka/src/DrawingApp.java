@@ -27,5 +27,6 @@ public class DrawingApp {
 		
 		System.out.println("color of " + sh.getClass().getName() + " = " + sh.getColor());
 		sh.area();
+		sc.close();
 	}
 }
