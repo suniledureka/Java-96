@@ -1,4 +1,0 @@
-In Java, an immutable class is a class which once created then its body can not be changed
-In Java, an immutable class is a class which once created then its body can not be changed
-In Java, an immutable class is a class which once created then its body can not be changed
-In Java, an immutable class is a class which once created then its body can not be changed
